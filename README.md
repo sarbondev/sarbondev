@@ -19,23 +19,35 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 ## 🚀 Technologies & Tools  
 
 ### **Frontend**  
-| ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) | ![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs) | ![Expo](https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo) |  
-|---|---|---|  
-| ![Material UI](https://img.shields.io/badge/-Material%20UI-222222?style=for-the-badge&logo=mui) | ![ShadCN UI](https://img.shields.io/badge/-ShadCN-222222?style=for-the-badge) | ![Mantine UI](https://img.shields.io/badge/-Mantine-222222?style=for-the-badge) |  
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=for-the-badge&logo=tailwindcss) |  |  |  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo" />
+  <img src="https://img.shields.io/badge/-Material%20UI-222222?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/-ShadCN-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Mantine-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-222222?style=for-the-badge&logo=tailwindcss" />
+</div>  
 
 ### **Backend**  
-| ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js) | ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=for-the-badge&logo=express) | ![NestJS](https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs) |  
-|---|---|---|  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-222222?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs" />
+</div>  
 
 ### **Databases**  
-| ![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=for-the-badge&logo=mongodb) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=for-the-badge&logo=postgresql) |  
-|---|---|  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-MongoDB-222222?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-222222?style=for-the-badge&logo=postgresql" />
+</div>  
 
 ### **Other Tools**  
-| ![Electron](https://img.shields.io/badge/-Electron-222222?style=for-the-badge&logo=electron) | ![Deno](https://img.shields.io/badge/-Deno-222222?style=for-the-badge&logo=deno) | ![Docker](https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker) |  
-|---|---|---|  
-
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Electron-222222?style=for-the-badge&logo=electron" />
+  <img src="https://img.shields.io/badge/-Deno-222222?style=for-the-badge&logo=deno" />
+  <img src="https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker" />
+</div>  
 
 ---  
 

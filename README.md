@@ -1,40 +1,61 @@
-# Suhrob Rahmatullayev
+# Suhrob Rahmatullayev  
 
-**`Software Developer, Mentor`**
+**`Software Developer | Mentor`**  
 
-I'm a full-stack web developer and also a mentor in this field. I started working in this field at the end of 2022 and have worked on several projects until now. As a mentor, I shared my knowledge with everyone and still do. So far, I have met many industry experts and worked with them, which has been a great experience for me. Currently, apart from sharing my knowledge and skills, I am also busy learning other technologies that I don't know about, and it's really fun.
+I'm a full-stack web developer and mentor. I started my journey in late 2022 and have worked on several projects since then. As a mentor, I love sharing knowledge and guiding others in their programming careers. I've had the opportunity to work with many industry experts, which has been a valuable experience. Currently, besides mentoring, I'm also exploring new technologies and enjoying the learning process.  
 
-   <!--<p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/elmurodvokhidov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/elmurodvokhidov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>-->
+<!-- Badges Section -->
+<p align="left">
+   <a href="https://github.com/Rakhsrb">
+      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rakhsrb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/Rakhsrb?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rakhsrb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>  
 
-#
+---  
 
-### 🧰 Languages and Tools
+## 🚀 Technologies & Tools  
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" />       
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />       
+### **Frontend**  
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs)  
+![Expo](https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo)  
+![Material UI](https://img.shields.io/badge/-Material%20UI-222222?style=for-the-badge&logo=mui)  
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-222222?style=for-the-badge)  
+![Mantine UI](https://img.shields.io/badge/-Mantine-222222?style=for-the-badge)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-222222?style=for-the-badge&logo=tailwindcss)  
 
-<br />
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-222222?style=for-the-badge&logo=express)  
+![NestJS](https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs)  
 
-#
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-222222?style=for-the-badge&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=for-the-badge&logo=postgresql)  
 
-### 📊 Stats
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakhsrb&show_icons=true&theme=tokyonight)
+### **Other Tools**  
+![Electron](https://img.shields.io/badge/-Electron-222222?style=for-the-badge&logo=electron)  
+![Deno](https://img.shields.io/badge/-Deno-222222?style=for-the-badge&logo=deno)  
+![Docker](https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker)  
+
+---  
+
+## 📊 GitHub Stats  
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=Rakhsrb&show_icons=true&theme=tokyonight" height="160px" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb&theme=tokyonight" height="160px" />
+</p>  
+
+---
+
+## 🌍 Connect with Me  
+📧 Email: suhrobrahmatullayev973132@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/%D1%81%D1%83%D1%85%D1%80%D0%BE%D0%B1-%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-6a0469258/
+
+---
+
+✨ _"Code, mentor, and build cool things!"_ 🚀

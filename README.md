@@ -19,7 +19,7 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 ## 🚀 Technologies & Tools  
 
 ### **Frontend**  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Next.js-222222?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/-Expo-222222?style=for-the-badge&logo=expo" />
@@ -30,20 +30,20 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 </div>  
 
 ### **Backend**  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Node.js-222222?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/-Express.js-222222?style=for-the-badge&logo=express" />
   <img src="https://img.shields.io/badge/-NestJS-222222?style=for-the-badge&logo=nestjs" />
 </div>  
 
 ### **Databases**  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-MongoDB-222222?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-PostgreSQL-222222?style=for-the-badge&logo=postgresql" />
 </div>  
 
 ### **Other Tools**  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Electron-222222?style=for-the-badge&logo=electron" />
   <img src="https://img.shields.io/badge/-Deno-222222?style=for-the-badge&logo=deno" />
   <img src="https://img.shields.io/badge/-Docker-222222?style=for-the-badge&logo=docker" />
@@ -61,8 +61,8 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 ---
 
 ## 🌍 Connect with Me  
-📧 Email: suhrobrahmatullayev973132@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/%D1%81%D1%83%D1%85%D1%80%D0%BE%D0%B1-%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-6a0469258/
+📧 Email: <a href="https://suhrobrahmatullayev973132@gmail.com">suhrobrahmatullayev973132@gmail.com</a>  
+💼 LinkedIn: <a href="https://www.linkedin.com/in/%D1%81%D1%83%D1%85%D1%80%D0%BE%D0%B1-%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-6a0469258/">Сухроб Рахматуллаев</a>
 
 ---
 

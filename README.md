@@ -56,8 +56,6 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 
 ---  
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## 📊 GitHub Stats  
 
 <p>

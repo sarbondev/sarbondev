@@ -4,13 +4,9 @@
 
 I'm a full-stack web developer and mentor. I started my journey in late 2022 and have worked on several projects since then. As a mentor, I love sharing knowledge and guiding others in their programming careers. I've had the opportunity to work with many industry experts, which has been a valuable experience. Currently, besides mentoring, I'm also exploring new technologies and enjoying the learning process.  
 
-**`Разработчик ПО | Наставник`**
+**`Разработчик ПО | ментор`**
 
-Я веб-разработчик полного цикла и наставник. Я начал свой путь в конце 2022 года и с тех пор работал над несколькими проектами. Как наставник, я люблю делиться знаниями и направлять других в их карьере программирования. У меня была возможность работать со многими экспертами отрасли, что стало ценным опытом. В настоящее время, помимо наставничества, я также изучаю новые технологии и наслаждаюсь процессом обучения.
-
-**`Dasturiy ta'minot ishlab chiqaruvchisi | Mentor`**
-
-Men fulstek veb-dasturchi va murabbiyman. Men sayohatimni 2022 yil oxirida boshladim va shundan beri bir nechta loyihalar ustida ishladim. Mentor sifatida men bilimlarni baham ko'rishni va boshqalarning dasturlash karerasiga rahbarlik qilishni yaxshi ko'raman. Men ko‘plab soha mutaxassislari bilan ishlash imkoniyatiga ega bo‘ldim, bu qimmatli tajriba bo‘ldi. Hozir mentorlikdan tashqari yangi texnologiyalarni o‘rganyapman va o‘quv jarayonidan zavq olaman.
+Я full-stack веб-разработчик и ментор . Я начал свой путь в конце 2022 года и с тех пор работал над несколькими проектами. Как наставник, я люблю делиться знаниями и направлять других в их карьере программирования. У меня была возможность работать со многими экспертами отрасли, что стало ценным опытом. В настоящее время, помимо наставничества, я также изучаю новые технологии и наслаждаюсь процессом обучения.
 
 
 <!-- Badges Section -->

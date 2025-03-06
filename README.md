@@ -60,7 +60,6 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 
 <p>
    <img src="https://github-readme-stats.vercel.app/api?username=Rakhsrb&show_icons=true&theme=tokyonight" height="160px" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb&theme=tokyonight" height="160px" />
 </p>  
 
 ---

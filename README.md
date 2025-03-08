@@ -8,17 +8,6 @@ I'm a full-stack web developer and mentor. I started my journey in late 2022 and
 
 Я full-stack веб-разработчик и ментор . Я начал свой путь в конце 2022 года и с тех пор работал над несколькими проектами. Как наставник, я люблю делиться знаниями и направлять других в их карьере программирования. У меня была возможность работать со многими экспертами отрасли, что стало ценным опытом. В настоящее время, помимо наставничества, я также изучаю новые технологии и наслаждаюсь процессом обучения.
 
-
-<!-- Badges Section -->
-<p align="left">
-   <a href="https://github.com/Rakhsrb">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Rakhsrb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://github.com/Rakhsrb?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rakhsrb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-</p>  
-
 ---  
 
 ## 🚀 Technologies & Tools  

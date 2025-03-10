@@ -37,9 +37,9 @@ I have a keen interest in collaborating and building digital solutions that solv
 
 ## 📊 GitHub Stats  
 
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Souravdey777)](https://github.com/Rakhsrb)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb)](https://github.com/Rakhsrb)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)](https://github.com/Rakhsrb)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakhsrb&show_icons=true&hide_border=true)](https://github.com/Rakhsrb)
 
 ---
 

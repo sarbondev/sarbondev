@@ -1,12 +1,12 @@
 # Suhrob Rahmatullayev  
 
-**`Software Developer | Mentor`**  
+**`Software Developer`**  
 
-I'm a full-stack web developer and mentor. I started my journey in late 2022 and have worked on several projects since then. As a mentor, I love sharing knowledge and guiding others in their programming careers. I've had the opportunity to work with many industry experts, which has been a valuable experience. Currently, besides mentoring, I'm also exploring new technologies and enjoying the learning process.  
+I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a creative technologist, I leverage my expertise in software development to merge technical skills with creative thinking. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
 
-**`Разработчик ПО | ментор`**
+**`Разработчик ПО`**
 
-Я full-stack веб-разработчик и ментор . Я начал свой путь в конце 2022 года и с тех пор работал над несколькими проектами. Как наставник, я люблю делиться знаниями и направлять других в их карьере программирования. У меня была возможность работать со многими экспертами отрасли, что стало ценным опытом. В настоящее время, помимо наставничества, я также изучаю новые технологии и наслаждаюсь процессом обучения.
+Я очень заинтересован в сотрудничестве и создании цифровых решений, которые решают реальные проблемы. Поскольку я считаю себя креативным технологом, я использую свои знания в разработке программного обеспечения для объединения технических навыков с творческим мышлением. Это сочетание позволяет мне разрабатывать ориентированные на пользователя решения, которые оказывают ощутимое влияние на мир.
 
 ---  
 

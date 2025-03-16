@@ -1,51 +1,50 @@
 # Suhrob Rahmatullayev  
-
-**`Software Developer`**  
-
-I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a creative technologist, I leverage my expertise in software development to merge technical skills with creative thinking. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
-
-**`Разработчик ПО`**
-
-Я очень заинтересован в сотрудничестве и создании цифровых решений, которые решают реальные проблемы. Поскольку я считаю себя креативным технологом, я использую свои знания в разработке программного обеспечения для объединения технических навыков с творческим мышлением. Это сочетание позволяет мне разрабатывать ориентированные на пользователя решения, которые оказывают ощутимое влияние на мир.
-
----  
-
-## 🚀 Technologies & Tools  
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Tailwind CSS-4285F4?style=flat&logo=tailwindcss&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat&logo">
-<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
----  
-
-## 📊 GitHub Stats  
-
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb)](https://github.com/Rakhsrb)
-
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakhsrb&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/Rakhsrb)
-
----
-
-## 🌍 Connect with Me  
-📧 Email: <a href="https://suhrobrahmatullayev973132@gmail.com">suhrobrahmatullayev973132@gmail.com</a>  
-💼 LinkedIn: <a href="https://www.linkedin.com/in/%D1%81%D1%83%D1%85%D1%80%D0%BE%D0%B1-%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-6a0469258/">Сухроб Рахматуллаев</a>
-
----
-
-✨ _"Code, mentor, and build cool things!"_ 🚀
+ 
+ **`Software Developer`**  
+ 
+ I have a keen interest in collaborating and building digital solutions that solve real-world problems. As I consider myself a creative technologist, I leverage my expertise in software development to merge technical skills with creative thinking. This combination allows me to develop user-centric solutions that have a tangible impact on the world.
+ 
+ **`Разработчик ПО`**
+ 
+ Я очень заинтересован в сотрудничестве и создании цифровых решений, которые решают реальные проблемы. Поскольку я считаю себя креативным технологом, я использую свои знания в разработке программного обеспечения для объединения технических навыков с творческим мышлением. Это сочетание позволяет мне разрабатывать ориентированные на пользователя решения, которые оказывают ощутимое влияние на мир.
+ 
+ ---  
+ 
+ ## 🚀 Technologies & Tools  
+ 
+ <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-Tailwind CSS-4285F4?style=flat&logo=tailwindcss&logoColor=ffffff">
+ <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
+ <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+ <img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat">
+ <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+ <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+ <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+ <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+ <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+ <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+ 
+ ---  
+ 
+ ## 📊 GitHub Stats  
+ 
+ [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb)](https://github.com/Rakhsrb)
+ 
+ [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakhsrb&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/Rakhsrb)
+ 
+ ---
+ 
+ ## 🌍 Connect with Me  
+ 📧 Email: <a href="https://suhrobrahmatullayev973132@gmail.com">suhrobrahmatullayev973132@gmail.com</a>  
+ 💼 LinkedIn: <a href="https://www.linkedin.com/in/%D1%81%D1%83%D1%85%D1%80%D0%BE%D0%B1-%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D1%83%D0%BB%D0%BB%D0%B0%D0%B5%D0%B2-6a0469258/">Сухроб Рахматуллаев</a>
+ 

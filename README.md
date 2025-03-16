@@ -17,6 +17,7 @@ I have a keen interest in collaborating and building digital solutions that solv
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Tailwind CSS-cc6699?style=flat&logo=tailwindcss&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">

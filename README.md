@@ -23,7 +23,6 @@ I have a keen interest in collaborating and building digital solutions that solv
 <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat&logo">
-<img src="https://img.shields.io/badge/-NestJS-ea2862?style=flat">
 <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">

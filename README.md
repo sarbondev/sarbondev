@@ -35,9 +35,6 @@
  ---  
  
  ## 📊 GitHub Stats  
- 
- [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rakhsrb)](https://github.com/Rakhsrb)
- 
  [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakhsrb&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/Rakhsrb)
  
  ---

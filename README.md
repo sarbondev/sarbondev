@@ -35,7 +35,7 @@
  ---  
  
  ## 📊 GitHub Stats  
- [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakhsrb&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/sarbondev)
+ [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarbondev&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/sarbondev)
  
  ---
  

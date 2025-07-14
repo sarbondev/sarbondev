@@ -32,11 +32,6 @@
  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
  <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
  
- ---  
- 
- ## 📊 GitHub Stats  
- [![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarbondev&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/sarbondev)
- 
  ---
  
  ## 🌍 Connect with Me  
